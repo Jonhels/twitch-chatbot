@@ -84,9 +84,6 @@ function onMessageHandler (target, context, msg, self) {
         !pog = 4x PagChomp
         `)
     }
-    
-    
-
 }
 
 // Function called when the "dice" command is issued
