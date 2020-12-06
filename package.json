@@ -1,0 +1,23 @@
+{
+    "name": "twitch-chatbot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node ./src/bot.js",
+      "dev": "nodemon ./src/bot.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Jonhels/twitch-chatbot"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Jonhels/twitch-chatbot/issues"
+    },
+    "homepage": "https://github.com/Jonhels/twitch-chatbot#readme"
+}
+  
