@@ -39,7 +39,7 @@ function onMessageHandler (target, context, msg, self) {
     }
 
     if (commandName === '!dance') {
-        client.say(target, `PepePls catJAM PepePls catJAM `)
+        client.say(target, `PepePls catJAM PepePls catJAMd `)
     }
 
     if (commandName === '!jam') {
